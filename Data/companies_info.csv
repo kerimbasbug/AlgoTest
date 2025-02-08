@@ -1,0 +1,101 @@
+ticker,company name,short name,sector,tag 1
+AAPL,Apple Inc.,Apple,Technology,Technology
+ABBV,AbbVie Inc.,AbbVie,Healthcare,Healthcare
+ABT,Abbott Laboratories,Abbott Laboratories,Healthcare,Healthcare
+ACN,Accenture plc Class A (Ireland),Accenture Plc,Technology,Technology
+ADBE,Adobe Inc.,Adobe,Technology,Technology
+AIG,American International Group Inc.,American International,Financial Services,Financial Services
+AMD,Advanced Micro Devices Inc.,Advanced Micro Devices,Technology,Technology
+AMGN,Amgen Inc.,Amgen,Healthcare,Healthcare
+AMT,American Tower Corporation (REIT),American Tower,Communication Services,Communication Services
+AMZN,Amazon.com Inc.,Amazon.com,Consumer Cyclical,Consumer Cyclical
+AVGO,Broadcom Inc.,Broadcom,Technology,Technology
+AXP,American Express Company,American Express Company,Financial Services,Financial Services
+BA,The Boeing Company,The Boeing Company,Industrials,Industrials
+BAC,Bank of America Corporation,Bank of America,Financial Services,Financial Services
+BK,Bank of New York Mellon Corporation (The),Bank of New York Mellon,Financial Services,Financial Services
+BKNG,Booking Holdings Inc.,Booking,Consumer Cyclical,Consumer Cyclical
+BLK,BlackRock Inc.,BlackRock,Financial Services,Financial Services
+BMY,Bristol-Myers Squibb Company,Bristol-Myers Squibb Company,Healthcare,Healthcare
+C,Citigroup Inc.,Citigroup,Financial Services,Financial Services
+CAT,Caterpillar Inc.,Caterpillar,Industrials,Industrials
+CHTR,Charter Communications Inc.,Charter Communications,Communication Services,Communication Services
+CL,Colgate-Palmolive Company,Colgate-Palmolive Company,Consumer Defensive,Consumer Defensive
+CMCSA,Comcast Corporation Class A Common Stock,Comcast Common Stock,Communication Services,Communication Services
+COF,Capital One Financial Corporation,Capital One Financial,Financial Services,Financial Services
+COP,ConocoPhillips,ConocoPhillips,Energy,Energy
+COST,Costco Wholesale Corporation,Costco Wholesale,Consumer Defensive,Consumer Defensive
+CRM,Salesforce.com Inc,Salesforce.com,Technology,Technology
+CSCO,Cisco Systems Inc.,Cisco Systems,Technology,Technology
+CVS,CVS Health Corporation,CVS Health,Healthcare,Healthcare
+CVX,Chevron Corporation,Chevron,Energy,Energy
+DHR,Danaher Corporation,Danaher,Healthcare,Healthcare
+DIS,The Walt Disney Company,The Walt Disney Company,Consumer Cyclical,Consumer Cyclical
+DUK,Duke Energy Corporation (Holding Company),Duke Energy,Utilities,Utilities
+EMR,Emerson Electric Company,Emerson Electric Company,Industrials,Industrials
+EXC,Exelon Corporation,Exelon,Utilities,Utilities
+F,Ford Motor Company,Ford Motor Company,Consumer Cyclical,Consumer Cyclical
+FDX,FedEx Corporation,FedEx,Industrials,Industrials
+GD,General Dynamics Corporation,General Dynamics,Industrials,Industrials
+GE,General Electric Company,General Electric Company,Industrials,Industrials
+GILD,Gilead Sciences Inc.,Gilead Sciences,Healthcare,Healthcare
+GM,General Motors Company,General Motors Company,Consumer Cyclical,Consumer Cyclical
+GOOGL,Alphabet Inc.,Alphabet,Technology,Technology
+GS,Goldman Sachs Group Inc. (The),Goldman Sachs,Financial Services,Financial Services
+HD,Home Depot Inc. (The),Home Depot,Consumer Cyclical,Consumer Cyclical
+HON,Honeywell International Inc.,Honeywell International,Industrials,Industrials
+IBM,International Business Machines Corporation,International Business Machines,Technology,Technology
+INTC,Intel Corporation,Intel,Technology,Technology
+JNJ,Johnson & Johnson,Johnson & Johnson,Healthcare,Healthcare
+JPM,JP Morgan Chase & Co.,JP Morgan Chase & Co.,Financial Services,Financial Services
+KHC,The Kraft Heinz Company,The Kraft Heinz Company,Consumer Defensive,Consumer Defensive
+KO,Coca-Cola Company (The),Coca-Cola Company,Consumer Defensive,Consumer Defensive
+LIN,Linde plc,Linde plc,Basic Materials,Basic Materials
+LLY,Eli Lilly and Company,Eli Lilly and Company,Healthcare,Healthcare
+LMT,Lockheed Martin Corporation,Lockheed Martin,Industrials,Industrials
+LOW,Lowe's Companies Inc.,Lowe's Companies,Consumer Cyclical,Consumer Cyclical
+MA,Mastercard Incorporated,Mastercard Inc.,Financial Services,Financial Services
+MCD,McDonald's Corporation,McDonald's,Consumer Cyclical,Consumer Cyclical
+MDLZ,Mondelez International Inc.,Mondelez International,Consumer Defensive,Consumer Defensive
+MDT,Medtronic plc.,Medtronic plc.,Healthcare,Healthcare
+MET,MetLife Inc.,MetLife,Financial Services,Financial Services
+MMM,3M Company,3M Company,Industrials,Industrials
+MO,Altria Group Inc.,Altria,Consumer Defensive,Consumer Defensive
+MRK,Merck & Company Inc. (new),Merck & Company,Healthcare,Healthcare
+MS,Morgan Stanley,Morgan Stanley,Financial Services,Financial Services
+MSFT,Microsoft Corporation,Microsoft,Technology,Technology
+NEE,NextEra Energy Inc.,NextEra Energy,Utilities,Utilities
+NFLX,Netflix Inc.,Netflix,Consumer Cyclical,Consumer Cyclical
+NKE,Nike Inc.,Nike,Consumer Cyclical,Consumer Cyclical
+NVDA,NVIDIA Corporation,NVIDIA,Technology,Technology
+ORCL,Oracle Corporation,Oracle,Technology,Technology
+PEP,PepsiCo Inc.,PepsiCo,Consumer Defensive,Consumer Defensive
+PFE,Pfizer Inc.,Pfizer,Healthcare,Healthcare
+PG,Procter & Gamble Company (The),Procter & Gamble,Consumer Defensive,Consumer Defensive
+PM,Philip Morris International Inc,Philip Morris International,Consumer Defensive,Consumer Defensive
+PYPL,PayPal Holdings Inc.,PayPal,Financial Services,Financial Services
+QCOM,QUALCOMM Incorporated,Qualcomm Inc.,Technology,Technology
+RTN,Raytheon Company,Raytheon Company,Industrials,Industrials
+SBUX,Starbucks Corporation,Starbucks,Consumer Cyclical,Consumer Cyclical
+SCHW,Charles Schwab Corporation (The),Charles Schwab,Financial Services,Financial Services
+SO,Southern Company (The),Southern Company,Utilities,Utilities
+SPG,Simon Property Group Inc.,Simon Property,Real Estate,Real Estate
+T,AT&T Inc.,AT&T,Communication Services,Communication Services
+TGT,Target Corporation,Target,Consumer Defensive,Consumer Defensive
+TMO,Thermo Fisher Scientific Inc,Thermo Fisher Scientific,Healthcare,Healthcare
+TMUS,T-Mobile US Inc.,T-Mobile,Communication Services,Communication Services
+TSLA,Tesla Inc.,Tesla,Consumer Cyclical,Consumer Cyclical
+TXN,Texas Instruments Incorporated,Texas Instruments Inc.,Technology,Technology
+UNH,UnitedHealth Group Incorporated (DE),UnitedHealth Inc.,Healthcare,Healthcare
+UNP,Union Pacific Corporation,Union Pacific,Industrials,Industrials
+UPS,United Parcel Service Inc.,United Parcel Service,Industrials,Industrials
+USB,U.S. Bancorp,U.S. Bancorp,Financial Services,Financial Services
+V,Visa Inc.,Visa,Financial Services,Financial Services
+VZ,Verizon Communications Inc.,Verizon Communications,Communication Services,Communication Services
+WBA,Walgreens Boots Alliance Inc.,Walgreens Boots Alliance,Consumer Defensive,Consumer Defensive
+WFC,Wells Fargo & Company,Wells Fargo & Company,Financial Services,Financial Services
+WMT,Walmart Inc.,Walmart,Consumer Defensive,Consumer Defensive
+XOM,Exxon Mobil Corporation,Exxon Mobil,Energy,Energy
+META,Meta Platforms Inc.,Meta,Technology,Technology
+DOW,Dow Inc.,Dow,Basic Materials,Basic Materials
+BRK-B,Berkshire Hathaway Inc.,Berkshire Hathaway,Financial Services,Financial Services
