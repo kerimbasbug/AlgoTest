@@ -1,0 +1,5 @@
+yfinance==0.2.18
+backtesting
+plotly
+matplotlib
+IPython
