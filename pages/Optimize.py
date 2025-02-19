@@ -29,7 +29,9 @@ class OptimizationApp:
 
     def load_data(self, ticker, start_date, end_date):
         try:
-            stock_data = yf.download(ticker, start=start_date, end=end_date)
+            stock_data = yf.download(ticker, start=start_date, end=end_date, multi_level_index=False)
+            stock_data = stock_data.reset_index()
+            stock_data = stock_data.set_index('Date')
             return stock_data
         except Exception as e:
             print(f"Error downloading data: {e}")
